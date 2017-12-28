@@ -1,0 +1,23 @@
+body {
+    background-color: #efefef;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    background: #fff;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
+.comment {
+    font-size: 11px;
+    font-style: italic;
+    opacity: 0.9;
+}
